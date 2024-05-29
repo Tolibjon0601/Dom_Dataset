@@ -1,0 +1,26 @@
+export let arr=[
+  {
+    name:"user1",
+    email:"ejaf",
+    id:1,
+    location:{
+      city:"tashkent"
+    },
+  },
+  {
+    name:"user1",
+    email:"ejaf",
+    id:1,
+    location:{
+      city:"tashkent",
+    },
+  },
+  {
+    name:"user1",
+    email:"ejaf",
+    id:1,
+    location:{
+      city:"tashkent"
+    }
+  }
+]
