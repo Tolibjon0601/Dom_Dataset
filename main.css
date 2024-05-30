@@ -17,7 +17,7 @@ a {
 }
 body {
   font-family: Arial, sans-serif;
-  background-color:#fff;
+  background-color: #f4f4f4;
   margin: 0;
   padding: 20px;
 }
@@ -46,7 +46,4 @@ body {
 .user-card a {
   color: #1a73e8;
   text-decoration: none;
-}
-div{
-  border: 3px solid red;
 }
